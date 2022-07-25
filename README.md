@@ -5,8 +5,7 @@
 
 > Es una app para organizar tareas.
 
-> La idea es que se puedan agregar tareas, y se puedan filtrar por categorías.
-> La app está en desarrollo, y no está lista para ser usada.
+> Primera versión de la app, no finalizada.
 
-> Solo se pueden agregar tareas de una categoría, no se guardan si se recarga la página.
+> Las tareas se pierden si se recarga el navegador.
 
