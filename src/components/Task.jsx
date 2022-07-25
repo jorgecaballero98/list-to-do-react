@@ -29,7 +29,7 @@ const Task = ({ item, onUpdate, onDelete }) => {
           value={newValue}
         />
         <button className="button" onClick={handleClickUpdate}>
-          Editar
+          Confirmar
         </button>
       </form>
     );
